@@ -1,6 +1,6 @@
 # Will you attend CodeDay Lucknow?
 
-Demo : 
+Demo: 
 
 # How to start
 ```
