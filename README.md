@@ -9,7 +9,7 @@ pnpm i
 pnpm run dev
 ```
 
-# Preview
+# Preview:
 
 ![image description](demo.gif)
 
